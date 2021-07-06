@@ -1,2 +1,0 @@
-# mSupply BLE service
-Hello
